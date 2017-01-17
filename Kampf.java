@@ -65,6 +65,7 @@ public class Kampf {
 			int counter = angreiferPosition;
 		}
 		//TODO
+		Testchange
 	}
 	
 	// simuliert den gesamten Kampf und endet erst, wenn eine Fraktion gewonnen hat. 
