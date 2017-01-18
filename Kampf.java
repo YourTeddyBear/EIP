@@ -1,3 +1,4 @@
+// DESTROYED AGAIN!!!
 import java.util.Random;
 
 public class Kampf {
